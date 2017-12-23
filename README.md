@@ -1,6 +1,6 @@
 # Super Mario Implementation in Python
 
-This is inspired by Meth-Meth-Method's: https://github.com/meth-meth-method/super-mario/
+Original version developed at: https://github.com/mx0c/super-mario-python
 
 ## Running
 
